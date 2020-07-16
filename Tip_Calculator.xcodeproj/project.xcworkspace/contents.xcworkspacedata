@@ -2,6 +2,36 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:Tip_Calculator.xcodeproj">
+      location = "group:../../../UI Assets/Fonts/LiquidCrystal-Bold/LiquidCrystal-Bold.otf">
+   </FileRef>
+   <FileRef
+      location = "group:../../../UI Assets/Fonts/LiquidCrystal-Bold/LiquidCrystal-BoldItalic.otf">
+   </FileRef>
+   <FileRef
+      location = "group:../../../UI Assets/Fonts/LiquidCrystal-Bold/LiquidCrystal-ExBold.otf">
+   </FileRef>
+   <FileRef
+      location = "group:../../../UI Assets/Fonts/LiquidCrystal-Bold/LiquidCrystal-ExBoldItalic.otf">
+   </FileRef>
+   <FileRef
+      location = "group:../../../UI Assets/Fonts/LiquidCrystal-Bold/LiquidCrystal-Light.otf">
+   </FileRef>
+   <FileRef
+      location = "group:../../../UI Assets/Fonts/LiquidCrystal-Bold/LiquidCrystal-LightItalic.otf">
+   </FileRef>
+   <FileRef
+      location = "group:../../../UI Assets/Fonts/LiquidCrystal-Bold/LiquidCrystal-Normal.otf">
+   </FileRef>
+   <FileRef
+      location = "group:../../../UI Assets/Fonts/LiquidCrystal-Bold/LiquidCrystal-NormalItalic.otf">
+   </FileRef>
+   <FileRef
+      location = "group:../../../UI Assets/Fonts/Ticking-Timebomb-BB/TickingTimebombBB_ital.ttf">
+   </FileRef>
+   <FileRef
+      location = "group:../../../UI Assets/Fonts/Ticking-Timebomb-BB/TickingTimebombBB.ttf">
+   </FileRef>
+   <FileRef
+      location = "self:">
    </FileRef>
 </Workspace>

@@ -7,9 +7,20 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		E9C9906724BCF4B200F6B281 /* LiquidCrystal-ExBold.otf in Resources */ = {isa = PBXBuildFile; fileRef = E9C9905D24BCF4B100F6B281 /* LiquidCrystal-ExBold.otf */; };
+		E9C9906824BCF4B200F6B281 /* LiquidCrystal-ExBoldItalic.otf in Resources */ = {isa = PBXBuildFile; fileRef = E9C9905E24BCF4B100F6B281 /* LiquidCrystal-ExBoldItalic.otf */; };
+		E9C9906924BCF4B200F6B281 /* LiquidCrystal-NormalItalic.otf in Resources */ = {isa = PBXBuildFile; fileRef = E9C9905F24BCF4B100F6B281 /* LiquidCrystal-NormalItalic.otf */; };
+		E9C9906A24BCF4B200F6B281 /* TickingTimebombBB.ttf in Resources */ = {isa = PBXBuildFile; fileRef = E9C9906024BCF4B100F6B281 /* TickingTimebombBB.ttf */; };
+		E9C9906B24BCF4B200F6B281 /* TickingTimebombBB_ital.ttf in Resources */ = {isa = PBXBuildFile; fileRef = E9C9906124BCF4B100F6B281 /* TickingTimebombBB_ital.ttf */; };
+		E9C9906C24BCF4B200F6B281 /* LiquidCrystal-Light.otf in Resources */ = {isa = PBXBuildFile; fileRef = E9C9906224BCF4B100F6B281 /* LiquidCrystal-Light.otf */; };
+		E9C9906D24BCF4B200F6B281 /* LiquidCrystal-Normal.otf in Resources */ = {isa = PBXBuildFile; fileRef = E9C9906324BCF4B100F6B281 /* LiquidCrystal-Normal.otf */; };
+		E9C9906E24BCF4B200F6B281 /* LiquidCrystal-Bold.otf in Resources */ = {isa = PBXBuildFile; fileRef = E9C9906424BCF4B100F6B281 /* LiquidCrystal-Bold.otf */; };
+		E9C9906F24BCF4B200F6B281 /* LiquidCrystal-BoldItalic.otf in Resources */ = {isa = PBXBuildFile; fileRef = E9C9906524BCF4B100F6B281 /* LiquidCrystal-BoldItalic.otf */; };
+		E9C9907024BCF4B200F6B281 /* LiquidCrystal-LightItalic.otf in Resources */ = {isa = PBXBuildFile; fileRef = E9C9906624BCF4B200F6B281 /* LiquidCrystal-LightItalic.otf */; };
+		E9E1C0E024B2D4AB00D033AC /* Settings_Screen.swift in Sources */ = {isa = PBXBuildFile; fileRef = E9E1C0DF24B2D4AB00D033AC /* Settings_Screen.swift */; };
 		E9FE7E9E24AF92F900FFF9F4 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = E9FE7E9D24AF92F900FFF9F4 /* AppDelegate.swift */; };
 		E9FE7EA024AF92F900FFF9F4 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = E9FE7E9F24AF92F900FFF9F4 /* SceneDelegate.swift */; };
-		E9FE7EA224AF92F900FFF9F4 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E9FE7EA124AF92F900FFF9F4 /* ViewController.swift */; };
+		E9FE7EA224AF92F900FFF9F4 /* Main_Screen.swift in Sources */ = {isa = PBXBuildFile; fileRef = E9FE7EA124AF92F900FFF9F4 /* Main_Screen.swift */; };
 		E9FE7EA524AF92F900FFF9F4 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E9FE7EA324AF92F900FFF9F4 /* Main.storyboard */; };
 		E9FE7EA724AF92F900FFF9F4 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E9FE7EA624AF92F900FFF9F4 /* Assets.xcassets */; };
 		E9FE7EAA24AF92F900FFF9F4 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E9FE7EA824AF92F900FFF9F4 /* LaunchScreen.storyboard */; };
@@ -35,10 +46,21 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		E9C9905D24BCF4B100F6B281 /* LiquidCrystal-ExBold.otf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "LiquidCrystal-ExBold.otf"; path = "../../../UI Assets/Fonts/LiquidCrystal-Bold/LiquidCrystal-ExBold.otf"; sourceTree = "<group>"; };
+		E9C9905E24BCF4B100F6B281 /* LiquidCrystal-ExBoldItalic.otf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "LiquidCrystal-ExBoldItalic.otf"; path = "../../../UI Assets/Fonts/LiquidCrystal-Bold/LiquidCrystal-ExBoldItalic.otf"; sourceTree = "<group>"; };
+		E9C9905F24BCF4B100F6B281 /* LiquidCrystal-NormalItalic.otf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "LiquidCrystal-NormalItalic.otf"; path = "../../../UI Assets/Fonts/LiquidCrystal-Bold/LiquidCrystal-NormalItalic.otf"; sourceTree = "<group>"; };
+		E9C9906024BCF4B100F6B281 /* TickingTimebombBB.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = TickingTimebombBB.ttf; path = "../../../UI Assets/Fonts/Ticking-Timebomb-BB/TickingTimebombBB.ttf"; sourceTree = "<group>"; };
+		E9C9906124BCF4B100F6B281 /* TickingTimebombBB_ital.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = TickingTimebombBB_ital.ttf; path = "../../../UI Assets/Fonts/Ticking-Timebomb-BB/TickingTimebombBB_ital.ttf"; sourceTree = "<group>"; };
+		E9C9906224BCF4B100F6B281 /* LiquidCrystal-Light.otf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "LiquidCrystal-Light.otf"; path = "../../../UI Assets/Fonts/LiquidCrystal-Bold/LiquidCrystal-Light.otf"; sourceTree = "<group>"; };
+		E9C9906324BCF4B100F6B281 /* LiquidCrystal-Normal.otf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "LiquidCrystal-Normal.otf"; path = "../../../UI Assets/Fonts/LiquidCrystal-Bold/LiquidCrystal-Normal.otf"; sourceTree = "<group>"; };
+		E9C9906424BCF4B100F6B281 /* LiquidCrystal-Bold.otf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "LiquidCrystal-Bold.otf"; path = "../../../UI Assets/Fonts/LiquidCrystal-Bold/LiquidCrystal-Bold.otf"; sourceTree = "<group>"; };
+		E9C9906524BCF4B100F6B281 /* LiquidCrystal-BoldItalic.otf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "LiquidCrystal-BoldItalic.otf"; path = "../../../UI Assets/Fonts/LiquidCrystal-Bold/LiquidCrystal-BoldItalic.otf"; sourceTree = "<group>"; };
+		E9C9906624BCF4B200F6B281 /* LiquidCrystal-LightItalic.otf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "LiquidCrystal-LightItalic.otf"; path = "../../../UI Assets/Fonts/LiquidCrystal-Bold/LiquidCrystal-LightItalic.otf"; sourceTree = "<group>"; };
+		E9E1C0DF24B2D4AB00D033AC /* Settings_Screen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Settings_Screen.swift; sourceTree = "<group>"; };
 		E9FE7E9A24AF92F900FFF9F4 /* Tip_Calculator.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Tip_Calculator.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		E9FE7E9D24AF92F900FFF9F4 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		E9FE7E9F24AF92F900FFF9F4 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
-		E9FE7EA124AF92F900FFF9F4 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		E9FE7EA124AF92F900FFF9F4 /* Main_Screen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Main_Screen.swift; sourceTree = "<group>"; };
 		E9FE7EA424AF92F900FFF9F4 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		E9FE7EA624AF92F900FFF9F4 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		E9FE7EA924AF92F900FFF9F4 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
@@ -101,11 +123,22 @@
 			children = (
 				E9FE7E9D24AF92F900FFF9F4 /* AppDelegate.swift */,
 				E9FE7E9F24AF92F900FFF9F4 /* SceneDelegate.swift */,
-				E9FE7EA124AF92F900FFF9F4 /* ViewController.swift */,
+				E9FE7EA124AF92F900FFF9F4 /* Main_Screen.swift */,
+				E9E1C0DF24B2D4AB00D033AC /* Settings_Screen.swift */,
 				E9FE7EA324AF92F900FFF9F4 /* Main.storyboard */,
 				E9FE7EA624AF92F900FFF9F4 /* Assets.xcassets */,
 				E9FE7EA824AF92F900FFF9F4 /* LaunchScreen.storyboard */,
 				E9FE7EAB24AF92F900FFF9F4 /* Info.plist */,
+				E9C9906424BCF4B100F6B281 /* LiquidCrystal-Bold.otf */,
+				E9C9906524BCF4B100F6B281 /* LiquidCrystal-BoldItalic.otf */,
+				E9C9905D24BCF4B100F6B281 /* LiquidCrystal-ExBold.otf */,
+				E9C9905E24BCF4B100F6B281 /* LiquidCrystal-ExBoldItalic.otf */,
+				E9C9906224BCF4B100F6B281 /* LiquidCrystal-Light.otf */,
+				E9C9906624BCF4B200F6B281 /* LiquidCrystal-LightItalic.otf */,
+				E9C9906324BCF4B100F6B281 /* LiquidCrystal-Normal.otf */,
+				E9C9905F24BCF4B100F6B281 /* LiquidCrystal-NormalItalic.otf */,
+				E9C9906124BCF4B100F6B281 /* TickingTimebombBB_ital.ttf */,
+				E9C9906024BCF4B100F6B281 /* TickingTimebombBB.ttf */,
 			);
 			path = Tip_Calculator;
 			sourceTree = "<group>";
@@ -232,9 +265,19 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E9C9906724BCF4B200F6B281 /* LiquidCrystal-ExBold.otf in Resources */,
+				E9C9906E24BCF4B200F6B281 /* LiquidCrystal-Bold.otf in Resources */,
+				E9C9906924BCF4B200F6B281 /* LiquidCrystal-NormalItalic.otf in Resources */,
+				E9C9906A24BCF4B200F6B281 /* TickingTimebombBB.ttf in Resources */,
+				E9C9906B24BCF4B200F6B281 /* TickingTimebombBB_ital.ttf in Resources */,
 				E9FE7EAA24AF92F900FFF9F4 /* LaunchScreen.storyboard in Resources */,
 				E9FE7EA724AF92F900FFF9F4 /* Assets.xcassets in Resources */,
+				E9C9906824BCF4B200F6B281 /* LiquidCrystal-ExBoldItalic.otf in Resources */,
+				E9C9906D24BCF4B200F6B281 /* LiquidCrystal-Normal.otf in Resources */,
+				E9C9906F24BCF4B200F6B281 /* LiquidCrystal-BoldItalic.otf in Resources */,
+				E9C9907024BCF4B200F6B281 /* LiquidCrystal-LightItalic.otf in Resources */,
 				E9FE7EA524AF92F900FFF9F4 /* Main.storyboard in Resources */,
+				E9C9906C24BCF4B200F6B281 /* LiquidCrystal-Light.otf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -259,7 +302,8 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				E9FE7EA224AF92F900FFF9F4 /* ViewController.swift in Sources */,
+				E9E1C0E024B2D4AB00D033AC /* Settings_Screen.swift in Sources */,
+				E9FE7EA224AF92F900FFF9F4 /* Main_Screen.swift in Sources */,
 				E9FE7E9E24AF92F900FFF9F4 /* AppDelegate.swift in Sources */,
 				E9FE7EA024AF92F900FFF9F4 /* SceneDelegate.swift in Sources */,
 			);
@@ -443,7 +487,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = "cppWorkspace.Tip-Calculator";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Debug;
 		};
@@ -460,7 +504,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = "cppWorkspace.Tip-Calculator";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Release;
 		};
