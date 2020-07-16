@@ -10,10 +10,10 @@ Time spent: **About 7** hours spent in total
 
 The following **required** functionality is complete:
 
-* [ ] User can enter a bill amount, choose a tip percentage, and see the tip and total values.
+* [x] User can enter a bill amount, choose a tip percentage, and see the tip and total values.
 
 The following **optional** features are implemented:
-* [ ] Settings page to change the default tip percentage.
+* [x] Settings page to change the default tip percentage.
 * [ ] UI animations
 * [ ] Remembering the bill amount across app restarts (if <10mins)
 * [ ] Using locale-specific currency and currency thousands separators.
@@ -21,12 +21,12 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-- [ ] Tip percentage slider (for broader tipping rate options)
-- [ ] Party size slider
-- [ ] Division of grand total by number of patrons in party
-- [ ] Custom font for currency text
-- [ ] Settings page to change the sliders' ranges
-- [ ] UI element constraints to allow for auto-resize (iPhone portrait view only)
+- [x] Tip percentage slider (for broader tipping rate options)
+- [x] Party size slider
+- [x] Division of grand total by number of patrons in party
+- [x] Custom font for currency text
+- [x] Settings page to change the sliders' ranges
+- [x] UI element constraints to allow for auto-resize (iPhone portrait view only)
 
 ## Video Walkthrough 
 
