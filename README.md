@@ -26,6 +26,7 @@ The following **additional** features are implemented:
 - [ ] Division of grand total by number of patrons in party
 - [ ] Custom font for currency text
 - [ ] Settings page to change the sliders' ranges
+- [ ] UI element constraints to allow for auto-resize (iPhone portrait view only)
 
 ## Video Walkthrough 
 
