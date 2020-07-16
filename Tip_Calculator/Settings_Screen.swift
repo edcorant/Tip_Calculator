@@ -31,12 +31,10 @@ class Settings_Screen: UIViewController, UINavigationControllerDelegate {
         party_size.text = "\(get_size_value()) people"
     }
     
-    
     @IBAction func change_in_rate(_ sender: UIStepper) {
         max_rate = rate_stepper.value
         tipping_rate.text = "\(get_rate_value())%"
     }
-    
     
     @IBAction func change_in_size(_ sender: UIStepper) {
         max_party = size_stepper.value
